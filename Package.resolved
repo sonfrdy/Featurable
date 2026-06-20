@@ -1,0 +1,33 @@
+{
+  "originHash" : "50f822c5a513a0799959c9fb87b08378ec19112ff48c53c1ac3939a1e5636f23",
+  "pins" : [
+    {
+      "identity" : "swift-custom-dump",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/pointfreeco/swift-custom-dump",
+      "state" : {
+        "revision" : "b9b59eb58c946236d6f16305c576ad194c36444e",
+        "version" : "1.6.0"
+      }
+    },
+    {
+      "identity" : "swift-syntax",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/swiftlang/swift-syntax",
+      "state" : {
+        "revision" : "79e4b74a295b6eb74a8b585e3a39d29e70c1dbd1",
+        "version" : "603.0.2"
+      }
+    },
+    {
+      "identity" : "xctest-dynamic-overlay",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/pointfreeco/xctest-dynamic-overlay",
+      "state" : {
+        "revision" : "cb281f343fd953280336dcbd3822cdf47c182f5b",
+        "version" : "1.10.0"
+      }
+    }
+  ],
+  "version" : 3
+}
